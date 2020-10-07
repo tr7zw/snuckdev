@@ -2,7 +2,7 @@
 
 I am José Silveira, people call me José, currently working on awesome projects with Java and learning new languages. Fell free to contact me
 
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Youtube Badge](https://img.shields.io/badge/-José-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC9mYIdBb_jTkeiBoO416MEQ)](https://www.youtube.com/c/koolkanna)
 [![Gmail Badge](https://img.shields.io/badge/-jose.eduardo02072006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.eduardo02072006@gmail.com)](mailto:jose.eduardo02072006@gmail.com)
 
 ## ⚡ Technologies
