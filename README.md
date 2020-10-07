@@ -16,5 +16,3 @@ I am José Silveira, people call me José, currently working on awesome projects
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=snuckdev&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snuckdev&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=snuckdev)
